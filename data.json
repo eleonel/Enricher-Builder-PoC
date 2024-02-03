@@ -1,0 +1,17 @@
+{
+  "source": [
+    "acceptlang",
+    "cookie",
+    "get"
+  ],
+  "processor": [
+    "accumulation",
+    "map",
+    "dimension"
+  ],
+  "destination": [
+    "bestpick",
+    "copy",
+    "datalayer_event"
+  ]
+}
